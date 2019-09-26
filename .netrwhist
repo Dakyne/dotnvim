@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/home/abertrand/Documents/Tools/yaourt-core/server/static/js'
-let g:netrw_dirhist_2='/home/abertrand/Documents/Tools/yaourt-core/server/exporters/to_pdf'
-let g:netrw_dirhist_3='/home/abertrand/Documents/Tools/yaourt-core/server/api'
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/abertrand/.config/awesome/themes/multicolor'
+let g:netrw_dirhist_4='/home/abertrand/.config/awesome/themes'
+let g:netrw_dirhist_3='/home/abertrand/.config/awesome'
+let g:netrw_dirhist_2='/home/abertrand/.config/awesome/lain'
+let g:netrw_dirhist_1='/home/abertrand/Documents/Tools/yaourt-core'

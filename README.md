@@ -17,8 +17,9 @@ Arborescense :
     └── Modules
 ```
 
-## Repam capslock
+## Remap capslock
 
+Lancer au démarrage :
 ```
 xmodmap -e 'clear Lock' -e 'keycode 0x09 = Caps_Lock'
 xmodmap -e 'clear Lock' -e 'keycode 0x42 = Escape'

@@ -37,3 +37,5 @@ Plug 'VundleVim/Vundle.vim'
 Plug 'ycm-core/YouCompleteMe'
 call plug#end()
 source ~/.config/nvim/bepo.vim
+source ~/.config/nvim/jinja.vim
+source ~/.config/nvim/htmljinja.vim
