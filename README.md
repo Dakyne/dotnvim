@@ -1,5 +1,6 @@
 # Config nvim
 ## Plugged
+install vim-plug
 ### YouCompleteMe
 ```
 git clone https://github.com/ycm-core/YouCompleteMe.git --recursive
