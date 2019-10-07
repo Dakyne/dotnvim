@@ -35,7 +35,6 @@ let g:airline#extensions#languageclient#enabled=1
 call plug#begin('~/.config/nvim/plugged')
 Plug 'VundleVim/Vundle.vim'
 Plug 'ycm-core/YouCompleteMe'
+Plug 'Glench/Vim-Jinja2-Syntax'
 call plug#end()
 source ~/.config/nvim/bepo.vim
-source ~/.config/nvim/jinja.vim
-source ~/.config/nvim/htmljinja.vim
