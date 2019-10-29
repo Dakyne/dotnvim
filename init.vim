@@ -22,6 +22,8 @@ set foldmethod=syntax
 set hidden
 set termguicolors
 set mouse=a
+set ignorecase
+set smartcase
 command W :execute ':silent w !sudo tee % > /dev/null | :edit!'
 let g:gruvbox_italic=1
 colorscheme gruvbox

@@ -1,17 +1,17 @@
 " [HJKL] -> {CTSR}
 " ————————————————
 " {cr} = « gauche / droite »
-noremap c h
-noremap r l
+noremap t h
+noremap n l
 " {ts} = « haut / bas »
-noremap t j
-noremap s k
+noremap s j
+noremap r k
 " {CR} = « haut / bas de l'écran »
-noremap C H
-noremap R L
+noremap T H
+noremap N L
 " {TS} = « joindre / aide »
-noremap T J
-noremap S K
+noremap S J
+noremap R K
 
 " <> en direct
 " ————————————
